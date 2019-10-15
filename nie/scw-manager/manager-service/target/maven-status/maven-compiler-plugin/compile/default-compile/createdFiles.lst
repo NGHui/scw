@@ -1,0 +1,8 @@
+com\atguigu\scw\manager\service\impl\PermissionServiceImpl.class
+com\atguigu\scw\manager\service\UserService.class
+com\atguigu\scw\manager\service\impl\RoleServiceImpl.class
+com\atguigu\scw\manager\service\UserRoleService.class
+com\atguigu\scw\manager\service\impl\UserServiceImpl.class
+com\atguigu\scw\manager\service\impl\UserRoleServiceImpl.class
+com\atguigu\scw\manager\service\RoleService.class
+com\atguigu\scw\manager\service\PermissionService.class

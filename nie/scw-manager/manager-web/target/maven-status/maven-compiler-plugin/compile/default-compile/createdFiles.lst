@@ -1,0 +1,4 @@
+com\atguigu\scw\manager\controller\permission\RoleController.class
+com\atguigu\scw\manager\controller\permission\UserController.class
+com\atguigu\scw\manager\listener\MyAppListener.class
+com\atguigu\scw\manager\controller\DisbributerController.class
